@@ -1,0 +1,9 @@
+https://www.pythonanywhere.com/login/
+https://github.com/
+
+mails : williantagain@gmail.com
+mdp : Tagerwill=11
+username : Williantagain
+williantagain (pour Django)
+
+

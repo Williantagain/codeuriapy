@@ -1,0 +1,4 @@
+1- concernant les modificaions, a cette adresse https://tutorial.djangogirls.org/fr/django_start_project/, la constante ci apres :
+  STATIC_ROOT = os.path.join(BASE_DIR, 'static') du fichier settings.py ne fonctionne pas.
+
+2- nest pas la meme avec pour moi    https://tutorial.djangogirls.org/fr/deploy/
